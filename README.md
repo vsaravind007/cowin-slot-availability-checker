@@ -7,6 +7,8 @@ This app was developed for my personal use, it is running on a Raspberry Pi 3 at
 
 If you are Thiruvananthapuram, Kerala, you can join this Telegram channel, this is where I'm getting my notifications now: https://t.me/tvmcowinavailability
 
+![Alt text](https://github.com/vsaravind007/cowin-slot-availability-checker/blob/main/images/ss.jpeg?raw=true "Screenshot")
+
 
 **How To Get Your District ID & Configure This App**
 
@@ -30,4 +32,4 @@ Follow the below steps to configure the app:
 
 **Application Flow**
 
-![Alt text](https://github.com/vsaravind007/cowin-slot-availability-checker/blob/main/images/flow.png?raw=true "Optional Title")
+![Alt text](https://github.com/vsaravind007/cowin-slot-availability-checker/blob/main/images/flow.png?raw=true "Flow")
